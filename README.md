@@ -22,6 +22,9 @@ Manifesto ágil
 - Framework: uma estrutura pronta que ajuda a organizar e facilitar o desenvolvimento.
 - Método: passo a passo específico para fazer uma tarefa.
 
+
+
+
 # 2. Técnicas de levantamento de requisitos
 
 | Técnica | Descrição | Quando Usar | Vantagens | Limitações |
